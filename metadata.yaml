@@ -1,0 +1,33 @@
+_repo: The-Poetical-Works-of-John-Dryden-Volume-2--13-With-Life-Critical-Dissertation-and-Explanator__11578
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dryden, John
+    birthdate: 1631
+    deathdate: 1700
+    gutenberg_agent_id: '807'
+    url: http://www.gutenberg.org/2009/agents/807
+    wikipedia: http://en.wikipedia.org/wiki/John_Dryden
+  editor:
+    agent_name: Gilfillan, George
+    birthdate: 1813
+    deathdate: 1878
+    gutenberg_agent_id: '3126'
+    url: http://www.gutenberg.org/2009/agents/3126
+    wikipedia: http://en.wikipedia.org/wiki/George_Gilfillan
+description: ''
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11578'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English poetry'
+- !lcc 'PR'
+- GITenberg
+title: "The Poetical Works of John Dryden, Volume 2\r\nWith Life, Critical Dissertation,\
+  \ and Explanatory Notes"
+url: http://www.gutenberg.org/ebooks/11578
